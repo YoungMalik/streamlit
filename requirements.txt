@@ -1,0 +1,6 @@
+streamlit
+seaborn
+matplotlib
+scikit-learn
+plotly
+httpx
